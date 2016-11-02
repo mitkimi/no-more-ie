@@ -3,11 +3,11 @@
 
 ##使用：
 在当前项目所有页面<head>标签里加入以下代码：
-    <!--[if lte IE 8]>
-       <script>
+    &lt;!--[if lte IE 8]&gt;
+       &lt;script&gt;
         window.location.href="ie.html";
-      </script>
-    <![endif]-->
+       &lt;/script&gt;
+    &lt;![endif]--&gt;
 
 ##反馈：
 请联系：mitkimi@163.com
